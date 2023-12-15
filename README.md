@@ -26,3 +26,5 @@ Select Solid TypeScript
 ✔ What is your frontend dev command? · pnpm run dev
 ✔ What is your frontend build command? · pnpm run build
 ```
+
+`pnpm i -D @types/node`
