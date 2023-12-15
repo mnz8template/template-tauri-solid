@@ -1,7 +1,7 @@
-# Solid
+# Tauri Solid
 
-[Solid](https://www.solidjs.com/)
 [Tauri](https://tauri.app/)
+[Solid](https://www.solidjs.com/)
 
 ## 启动
 
