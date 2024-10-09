@@ -2,6 +2,7 @@
 
 - 目录已改造
 - tauri v1
+- 桌面端
 
 [Tauri](https://tauri.app/)
 [Solid](https://www.solidjs.com/)
