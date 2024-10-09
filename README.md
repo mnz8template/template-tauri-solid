@@ -1,4 +1,7 @@
-# Tauri Solid
+# Tauri Solid 的模板
+
+- 目录已改造
+- tauri v1
 
 [Tauri](https://tauri.app/)
 [Solid](https://www.solidjs.com/)
